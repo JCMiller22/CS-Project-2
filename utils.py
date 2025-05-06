@@ -1,5 +1,3 @@
-# utils.py
-
 import datetime
 
 def validate_task_name(task_name: str) -> None:
