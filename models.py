@@ -1,5 +1,3 @@
-# models.py
-
 class Task:
     """
     Represents a single task in the To-Do List Manager.
