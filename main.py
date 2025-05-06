@@ -1,5 +1,3 @@
-# main.py
-
 import tkinter as tk
 from tkinter import messagebox
 from ui_main import ToDoListGUI
